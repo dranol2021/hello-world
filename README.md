@@ -10,3 +10,5 @@ New changes in branch1
 More changes in another branch2
 
 Branch4 test
+
+Change after first release being done

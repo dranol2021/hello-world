@@ -2,7 +2,9 @@
 Hello world learning repositories
 
 This is an edit in the to main parallel branch "readme-edits"
-
 2nd Change to check numbers of changes
 
-A new branch out of main after branch2
+
+New changes in branch1
+
+More changes in another branch2
